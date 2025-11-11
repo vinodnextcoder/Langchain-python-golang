@@ -1,0 +1,7 @@
+langchain>=0.0
+faiss-cpu
+python-dotenv
+fastapi
+uvicorn
+langchain_google_genai
+langchain_core
