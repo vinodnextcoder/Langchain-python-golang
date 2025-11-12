@@ -5,3 +5,7 @@ fastapi
 uvicorn
 langchain_google_genai
 langchain_core
+pytest
+requests
+httpx
+fastapi[test]
